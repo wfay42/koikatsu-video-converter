@@ -1,0 +1,6 @@
+ffmpeg.exe
+*.mp4
+*.lnk
+
+# directories containing frames
+202[0-9]-[0-9][0-9]-[0-9][0-9]*
